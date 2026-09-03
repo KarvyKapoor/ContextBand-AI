@@ -1,0 +1,210 @@
+[
+  {
+    "decision_id": "2b44f987-a47a-4f38-8e45-b694722f743e",
+    "type": "decision",
+    "user_id": "demo_user",
+    "timestamp": "2026-08-31T17:47:01.883158+00:00",
+    "context": {
+      "time_of_day": "evening",
+      "activity": "low",
+      "stress": "high",
+      "location": "home"
+    },
+    "action": "hydration_reminder",
+    "tone": "supportive",
+    "message": "A quick hydration break could help you feel refreshed. Take a moment to drink some water.",
+    "response": null,
+    "reward": null
+  },
+  {
+    "decision_id": "2f3970ba-8bfc-4eb0-a17e-7d133cc56258",
+    "type": "decision",
+    "user_id": "demo_user",
+    "timestamp": "2026-08-31T17:47:25.069215+00:00",
+    "context": {
+      "time_of_day": "evening",
+      "activity": "low",
+      "stress": "low",
+      "location": "home"
+    },
+    "action": "hydration_reminder",
+    "tone": "supportive",
+    "message": "A quick hydration break could help you feel refreshed. Take a moment to drink some water.",
+    "response": null,
+    "reward": null
+  },
+  {
+    "decision_id": "5b45c1dd-7b36-4dc3-aabd-6c525bb98fe0",
+    "type": "decision",
+    "user_id": "demo_user",
+    "timestamp": "2026-08-31T17:47:52.359534+00:00",
+    "context": {
+      "time_of_day": "evening",
+      "activity": "low",
+      "stress": "high",
+      "location": "home"
+    },
+    "action": "hydration_reminder",
+    "tone": "supportive",
+    "message": "A quick hydration break could help you feel refreshed. Take a moment to drink some water.",
+    "response": "completed",
+    "reward": 1.0,
+    "feedback_timestamp": "2026-08-31T17:50:04.594355+00:00"
+  },
+  {
+    "decision_id": "bf2146fd-2eeb-47cf-b4a8-1f0ff87ca589",
+    "type": "decision",
+    "user_id": "demo_user",
+    "timestamp": "2026-08-31T17:51:16.257921+00:00",
+    "context": {
+      "time_of_day": "evening",
+      "activity": "low",
+      "stress": "high",
+      "location": "home"
+    },
+    "action": "activity_reminder",
+    "tone": "supportive",
+    "message": "A small movement break could be helpful right now. Stretch or walk for a few minutes.",
+    "response": "completed",
+    "reward": 1.0,
+    "feedback_timestamp": "2026-08-31T17:52:36.702204+00:00"
+  },
+  {
+    "decision_id": "3a340cc3-0159-4436-9e12-d76d19e15e7f",
+    "type": "decision",
+    "user_id": "demo_user",
+    "timestamp": "2026-08-31T17:53:50.851156+00:00",
+    "context": {
+      "time_of_day": "evening",
+      "activity": "low",
+      "stress": "high",
+      "location": "home"
+    },
+    "action": "breathing_exercise",
+    "tone": "supportive",
+    "message": "You seem to be under some pressure. Take two minutes to slow down and reset.",
+    "response": "completed",
+    "reward": 1.0,
+    "feedback_timestamp": "2026-08-31T17:54:35.995405+00:00"
+  },
+  {
+    "decision_id": "f297121f-6339-4997-b803-4314b568f7cd",
+    "type": "decision",
+    "user_id": "demo_user",
+    "timestamp": "2026-08-31T18:02:27.448203+00:00",
+    "context": {
+      "time_of_day": "evening",
+      "activity": "low",
+      "stress": "high",
+      "location": "home"
+    },
+    "action": "hydration_reminder",
+    "tone": "supportive",
+    "message": "A quick hydration break could help you feel refreshed. Take a moment to drink some water.",
+    "response": null,
+    "reward": null
+  },
+  {
+    "decision_id": "0585f110-af66-4d28-9e9c-58e485bbac38",
+    "type": "decision",
+    "user_id": "demo_user",
+    "timestamp": "2026-08-31T18:03:14.630839+00:00",
+    "context": {
+      "time_of_day": "evening",
+      "activity": "low",
+      "stress": "high",
+      "location": "home"
+    },
+    "action": "hydration_reminder",
+    "tone": "supportive",
+    "message": "A quick hydration break could help you feel refreshed. Take a moment to drink some water.",
+    "response": "completed",
+    "reward": 1.0,
+    "feedback_timestamp": "2026-08-31T18:15:19.228355+00:00"
+  },
+  {
+    "decision_id": "58f4ac34-7855-403a-ac2c-815d596eb01a",
+    "type": "decision",
+    "user_id": "demo_user",
+    "timestamp": "2026-08-31T18:16:52.544432+00:00",
+    "context": {
+      "time_of_day": "evening",
+      "activity": "low",
+      "stress": "high",
+      "location": "home"
+    },
+    "action": "activity_reminder",
+    "tone": "supportive",
+    "message": "A small movement break could be helpful right now. Stretch or walk for a few minutes.",
+    "response": null,
+    "reward": null
+  },
+  {
+    "decision_id": "ce138f1d-5fe9-4703-b787-6c03e2272e07",
+    "type": "decision",
+    "user_id": "test_user_1",
+    "timestamp": "2026-08-31T18:28:51.958261+00:00",
+    "context": {
+      "time_of_day": "morning",
+      "activity": "low",
+      "stress": "high",
+      "location": "home"
+    },
+    "action": "hydration_reminder",
+    "tone": "relaxing",
+    "message": "Take a slow moment for yourself. A glass of water can be a gentle reset.",
+    "response": null,
+    "reward": null
+  },
+  {
+    "decision_id": "fac4b0c4-963a-418f-89f6-7005f111c786",
+    "type": "decision",
+    "user_id": "test_user_2",
+    "timestamp": "2026-08-31T18:29:48.598759+00:00",
+    "context": {
+      "time_of_day": "morning",
+      "activity": "high",
+      "stress": "low",
+      "location": "work"
+    },
+    "action": "hydration_reminder",
+    "tone": "excited",
+    "message": "You're doing great! Keep the momentum flowing with a quick hydration boost!",
+    "response": null,
+    "reward": null
+  },
+  {
+    "decision_id": "239deaf2-04e4-40f1-997a-3b874b5cf2b4",
+    "type": "decision",
+    "user_id": "test_user_3",
+    "timestamp": "2026-08-31T18:30:44.130229+00:00",
+    "context": {
+      "time_of_day": "morning",
+      "activity": "low",
+      "stress": "high",
+      "location": "home"
+    },
+    "action": "breathing_exercise",
+    "tone": "relaxing",
+    "message": "Slow down for a moment. Take a few deep breaths and let yourself reset.",
+    "response": null,
+    "reward": null
+  },
+  {
+    "decision_id": "81184a8a-587b-4e44-a270-2b2c9d6896ad",
+    "type": "decision",
+    "user_id": "test_user_4",
+    "timestamp": "2026-08-31T18:31:33.350842+00:00",
+    "context": {
+      "time_of_day": "evening",
+      "activity": "low",
+      "stress": "medium",
+      "location": "home"
+    },
+    "action": "hydration_reminder",
+    "tone": "minimal",
+    "message": "Quick hydration break?",
+    "response": null,
+    "reward": null
+  }
+]
