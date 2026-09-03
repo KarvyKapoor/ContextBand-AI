@@ -1,6 +1,6 @@
 # ContextBand AI - Fast Deployment Guide
 
-## What changed
+## What 
 - Always-visible Complete, Snooze and Dismiss actions on recommendations.
 - Same actions inside the intervention modal.
 - Chronic-care profile: Diabetes, Hypertension, Asthma, General Chronic Care.
@@ -19,8 +19,6 @@ npm install
 npm run build
 npm start
 ```
-
-Vercel: import the `frontend` folder and set `NEXT_PUBLIC_API_URL`.
 
 ## Backend
 Use the existing backend deployment configuration. Keep CORS configured for the frontend domain.
